@@ -1,5 +1,0 @@
-definitions:
-  config:
-    /content/gallery:
-      hippostd:foldertype: [new-myhippoproject-imageset-folder]
-      hippostd:gallerytype: ['myhippoproject:imageset']
