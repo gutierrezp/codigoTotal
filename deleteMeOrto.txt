@@ -5,6 +5,8 @@ style
 
 news
 
+yest another news item
+
 link to rainbow
 
 link to news rainbow
