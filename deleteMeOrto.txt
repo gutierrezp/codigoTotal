@@ -7,6 +7,8 @@ news
 
 yest another news item
 
+news3
+
 link to rainbow
 
 link to news rainbow
