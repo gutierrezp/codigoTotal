@@ -24,7 +24,7 @@
 <link rel="apple-touch-icon" href="<@hst.webfile path="/images/apple-touch-icon.png"/>" />
 
 <link rel="alternate" type="application/rss+xml" title="Hippo Go Green RSS" href="<@hst.webfile path="/rss"/>" />
-
+<@hst.headContributions categoryIncludes="htmlHead" xhtml=true/>
 </head>
 <body class="bgpattern-neutral">
 
@@ -202,7 +202,7 @@
   <script src="<@hst.webfile path="/js/jquery-2.1.0.min.js"/>" type="text/javascript"></script>
   <script src="<@hst.webfile path="/js/bootstrap.min.js"/>" type="text/javascript"></script>
   <script src="<@hst.webfile path="/js/kanzi-menu.js"/>" type="text/javascript"></script>
-
+<@hst.headContributions categoryIncludes="htmlBodyEnd" xhtml=true/>
 </body>
 </html>
  <#--
