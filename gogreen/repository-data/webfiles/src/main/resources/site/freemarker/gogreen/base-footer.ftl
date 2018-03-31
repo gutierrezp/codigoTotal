@@ -1,3 +1,5 @@
+<#include "../include/imports.ftl">
+
 <!-- footer -->
     <footer>
       <div class="footer">
