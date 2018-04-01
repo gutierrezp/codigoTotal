@@ -1,0 +1,73 @@
+/content/documents/gogreen/about:
+  jcr:primaryType: hippostd:folder
+  jcr:mixinTypes: ['hippotranslation:translated', 'mix:versionable']
+  jcr:uuid: 134018b1-6138-4b7f-ad62-f95eb1077fa9
+  hippostd:foldertype: [new-translated-folder, new-document]
+  hippotranslation:id: bf05bcc4-1fd6-4b6b-9292-67845aefadb8
+  hippotranslation:locale: en
+  /about:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'mix:referenceable']
+    jcr:uuid: a36b8ae6-6e12-4c08-b42d-923d9e6b5ab7
+    hippo:name: About
+    /about[1]:
+      jcr:primaryType: gogreen:contentdocument
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 87298eb1-fa0a-4cce-9805-624391b682e3
+      gogreen:introduction: About attraction as into someone you know who, huh?
+      gogreen:publicationdate: 2018-04-01T16:20:00+01:00
+      gogreen:title: About Hippo GoGreen
+      hippo:availability: []
+      hippo:related___pathreference: []
+      hippostd:state: draft
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2018-04-01T16:19:30.724+01:00
+      hippostdpubwf:lastModificationDate: 2018-04-01T16:19:30.725+01:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: 412b53ab-2e2b-457b-91e2-e115cfbeea10
+      hippotranslation:locale: en
+      /gogreen:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>About a special place east london where you know who
+          works and with whom you would love to hang out...</p>
+    /about[2]:
+      jcr:primaryType: gogreen:contentdocument
+      jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+      jcr:uuid: f3c4e1a7-f619-4a1c-bd4d-e79d99955826
+      gogreen:introduction: About attraction as into someone you know who, huh?
+      gogreen:publicationdate: 2018-04-01T16:20:00+01:00
+      gogreen:title: About Hippo GoGreen
+      hippo:availability: [preview]
+      hippo:related___pathreference: []
+      hippostd:state: unpublished
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2018-04-01T16:19:30.724+01:00
+      hippostdpubwf:lastModificationDate: 2018-04-01T16:21:01.003+01:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: 412b53ab-2e2b-457b-91e2-e115cfbeea10
+      hippotranslation:locale: en
+      /gogreen:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>About a special place east london where you know who
+          works and with whom you would love to hang out...</p>
+    /about[3]:
+      jcr:primaryType: gogreen:contentdocument
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: eba94442-f43d-4269-83b6-6b1bf1a735fe
+      gogreen:introduction: About attraction as into someone you know who, huh?
+      gogreen:publicationdate: 2018-04-01T16:20:00+01:00
+      gogreen:title: About Hippo GoGreen
+      hippo:availability: [live]
+      hippo:related___pathreference: []
+      hippostd:state: published
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2018-04-01T16:19:30.724+01:00
+      hippostdpubwf:lastModificationDate: 2018-04-01T16:21:01.003+01:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippostdpubwf:publicationDate: 2018-04-01T16:21:09.673+01:00
+      hippotranslation:id: 412b53ab-2e2b-457b-91e2-e115cfbeea10
+      hippotranslation:locale: en
+      /gogreen:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>About a special place east london where you know who
+          works and with whom you would love to hang out...</p>
